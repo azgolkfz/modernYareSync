@@ -45,3 +45,6 @@ Pull requests are welcome. For major changes, please open an issue first.
 
 ## Update from fix/merge-7733
 - Auto-generated changes
+
+## Update from fix/merge-4589
+- Auto-generated changes
