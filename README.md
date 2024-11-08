@@ -51,3 +51,6 @@ Pull requests are welcome. For major changes, please open an issue first.
 
 ## Update from fix/merge-3549
 - Auto-generated changes
+
+## Update from docs/merge-9458
+- Auto-generated changes
