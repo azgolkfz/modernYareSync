@@ -33,3 +33,6 @@ Pull requests are welcome. For major changes, please open an issue first.
 
 ## Update from refactor/merge-5862
 - Auto-generated changes
+
+## Update from refactor/merge-1267
+- Auto-generated changes
