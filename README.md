@@ -39,3 +39,6 @@ Pull requests are welcome. For major changes, please open an issue first.
 
 ## Update from docs/merge-6594
 - Auto-generated changes
+
+## Update from refactor/merge-3507
+- Auto-generated changes
