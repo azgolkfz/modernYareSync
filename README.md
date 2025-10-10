@@ -30,3 +30,6 @@ Pull requests are welcome. For major changes, please open an issue first.
 
 ## Update from enhancement/merge-2304
 - Auto-generated changes
+
+## Update from refactor/merge-5862
+- Auto-generated changes
